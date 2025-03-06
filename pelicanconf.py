@@ -1,11 +1,8 @@
 AUTHOR = 'Patrick Chauhari'
 SITENAME = 'Resume markdown'
-SITEURL = "https://peco-beep.github.io/resume/"
+SITEURL = "https://peco-beep.github.io/resume"
 
 PATH = "content"
-
-THEME = "octopress"
-
 
 TIMEZONE = 'America/Winnipeg'
 
