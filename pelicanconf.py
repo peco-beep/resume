@@ -4,7 +4,8 @@ SITEURL = ""
 
 PATH = "content"
 
-THEME = "mediumfox"
+THEME = "octopress"
+
 
 TIMEZONE = 'America/Winnipeg'
 
