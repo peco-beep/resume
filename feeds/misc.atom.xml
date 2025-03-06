@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Resume markdown - misc</title><link href="https://peco-beep.github.io/resume/" rel="alternate"></link><link href="https://peco-beep.github.io/resume/feeds/misc.atom.xml" rel="self"></link><id>https://peco-beep.github.io/resume/</id><updated>2025-03-06T00:00:00-06:00</updated><entry><title>Resume</title><link href="https://peco-beep.github.io/resume/resume.html" rel="alternate"></link><published>2025-03-06T00:00:00-06:00</published><updated>2025-03-06T00:00:00-06:00</updated><author><name>Patrick Chauhari</name></author><id>tag:peco-beep.github.io,2025-03-06:/resume/resume.html</id><summary type="html">&lt;h1&gt;PATRICK CHAUHARI&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Computer Science&lt;/strong&gt;&lt;br&gt;
+ Email: chauharp@myumanitoba.ca  &lt;/p&gt;
+&lt;h2&gt;Experience&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;connection visualizer&lt;/strong&gt; – Built during devHacks &lt;/li&gt;
+&lt;li&gt;A web app that helps you connect back to people you met before  &lt;/li&gt;
+&lt;li&gt;Developed the frontend using React and managed data with PostgreSQL  &lt;/li&gt;
+&lt;li&gt;Integrated OpenAI API to enhance user experience&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Education&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Bachelor of Computer Science&lt;/strong&gt;, University …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;PATRICK CHAUHARI&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Computer Science&lt;/strong&gt;&lt;br&gt;
+ Email: chauharp@myumanitoba.ca  &lt;/p&gt;
+&lt;h2&gt;Experience&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;connection visualizer&lt;/strong&gt; – Built during devHacks &lt;/li&gt;
+&lt;li&gt;A web app that helps you connect back to people you met before  &lt;/li&gt;
+&lt;li&gt;Developed the frontend using React and managed data with PostgreSQL  &lt;/li&gt;
+&lt;li&gt;Integrated OpenAI API to enhance user experience&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Education&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Bachelor of Computer Science&lt;/strong&gt;, University of Manitoba (2023-2028)&lt;br&gt;
+- coursework: Data Structures, Web Development, Machine Learning  &lt;/p&gt;
+&lt;h2&gt;Skills&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Programming:&lt;/strong&gt; Java, JavaScript (React, Node.js), C  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Web Development:&lt;/strong&gt; HTML, CSS  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tools &amp;amp; Databases:&lt;/strong&gt; Git, PostgreSQL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Misc. Information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Languages: English and Indonesian&lt;/li&gt;
+&lt;/ul&gt;</content><category term="misc"></category></entry></feed>
