@@ -4,6 +4,8 @@ SITEURL = ""
 
 PATH = "content"
 
+THEME = "mediumfox"
+
 TIMEZONE = 'America/Winnipeg'
 
 DEFAULT_LANG = 'English'
