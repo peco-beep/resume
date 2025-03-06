@@ -1,6 +1,6 @@
 AUTHOR = 'Patrick Chauhari'
 SITENAME = 'Resume markdown'
-SITEURL = ""
+SITEURL = "https://peco-beep.github.io/resume/"
 
 PATH = "content"
 
