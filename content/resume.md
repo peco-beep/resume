@@ -4,6 +4,7 @@ Date: 06-March-2025
 # PATRICK CHAUHARI
 **Computer Science**  
  Email: chauharp@myumanitoba.ca  
+ Github: [github.com/peco-beep](https://github.com/peco-beep)
 
 ## Experience  
 **connection visualizer** – Built during devHacks 
