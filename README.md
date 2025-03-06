@@ -115,7 +115,7 @@ As Andrew Etter mentions in Modern Technical Writing, static websites have many 
    ```sh
    python -m pip install ghp-import
    ```
-   3. Stage your files ("Ensure your terminal is inside the correct project directory., `path\to\your\comp project\resume`).
+   3. Stage your files ("Ensure your terminal is inside the correct project directory, `path\to\your\comp project\resume`).
    ```sh
    git add .
    ```
@@ -157,7 +157,7 @@ Markdown is preferred because it is lightweight, easy to read, and does not requ
 
 ### I changed the Markdown version of my resume, so why don’t I see the changes when I refresh the website in my browser?
 If you made changes to your `resume.md` file but don’t see updates, try the following:
-1. Commit and push your changes to GitHub:
+1. Commit your changes to GitHub:
    ```sh
    cd content
    git add resume.md
