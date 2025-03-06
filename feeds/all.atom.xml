@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Resume markdown</title><link href="https://peco-beep.github.io/resume/" rel="alternate"></link><link href="https://peco-beep.github.io/resume/feeds/all.atom.xml" rel="self"></link><id>https://peco-beep.github.io/resume/</id><updated>2025-03-06T00:00:00-06:00</updated><entry><title>Resume</title><link href="https://peco-beep.github.io/resume/resume.html" rel="alternate"></link><published>2025-03-06T00:00:00-06:00</published><updated>2025-03-06T00:00:00-06:00</updated><author><name>Patrick Chauhari</name></author><id>tag:peco-beep.github.io,2025-03-06:/resume/resume.html</id><summary type="html">&lt;h1&gt;PATRICK CHAUHARI&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Resume markdown</title><link href="https://peco-beep.github.io/resume/" rel="alternate"></link><link href="https://peco-beep.github.io/resume/feeds/all.atom.xml" rel="self"></link><id>https://peco-beep.github.io/resume/</id><updated>2025-03-06T00:00:00-06:00</updated><entry><title>Home</title><link href="https://peco-beep.github.io/resume/home.html" rel="alternate"></link><published>2025-03-06T00:00:00-06:00</published><updated>2025-03-06T00:00:00-06:00</updated><author><name>Patrick Chauhari</name></author><id>tag:peco-beep.github.io,2025-03-06:/resume/home.html</id><content type="html">&lt;h1&gt;Welcome to My Resume Site!&lt;/h1&gt;
+&lt;p&gt;This is my personal site where you can find my resume &lt;/p&gt;
+&lt;h2&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="resume.html"&gt;Resume&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/yourusername"&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="misc"></category></entry><entry><title>Resume</title><link href="https://peco-beep.github.io/resume/resume.html" rel="alternate"></link><published>2025-03-06T00:00:00-06:00</published><updated>2025-03-06T00:00:00-06:00</updated><author><name>Patrick Chauhari</name></author><id>tag:peco-beep.github.io,2025-03-06:/resume/resume.html</id><summary type="html">&lt;h1&gt;PATRICK CHAUHARI&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Computer Science&lt;/strong&gt;&lt;br&gt;
- Email: chauharp@myumanitoba.ca  &lt;/p&gt;
+ Email: chauharp@myumanitoba.ca&lt;br&gt;
+ Github: &lt;a href="https://github.com/peco-beep"&gt;github.com/peco-beep&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Experience&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;connection visualizer&lt;/strong&gt; – Built during devHacks &lt;/p&gt;
 &lt;ul&gt;
@@ -10,9 +17,10 @@
 &lt;li&gt;Integrated OpenAI API to enhance user experience&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Education&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Bachelor of Computer Science&lt;/strong&gt;, University …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;PATRICK CHAUHARI&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Bachelor …&lt;/strong&gt;&lt;/p&gt;</summary><content type="html">&lt;h1&gt;PATRICK CHAUHARI&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Computer Science&lt;/strong&gt;&lt;br&gt;
- Email: chauharp@myumanitoba.ca  &lt;/p&gt;
+ Email: chauharp@myumanitoba.ca&lt;br&gt;
+ Github: &lt;a href="https://github.com/peco-beep"&gt;github.com/peco-beep&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Experience&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;connection visualizer&lt;/strong&gt; – Built during devHacks &lt;/p&gt;
 &lt;ul&gt;
