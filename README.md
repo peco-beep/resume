@@ -24,6 +24,7 @@ Before continuing this guide, ensure you have the following:
 ### 1. Make Your Resume using Markdown
 
 1. Open VS Code.
+   - If you are unfamiliar with VS Code, This is a [link](https://www.youtube.com/watch?v=B-s71n0dHUk) to a quick tutorial video.
 2. Create a new file and name it `resume.md` (or some other name).
 3. Create your first resume using markdown. Here is an example to get you started
    ```md
