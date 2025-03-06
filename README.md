@@ -186,6 +186,8 @@ If you made changes to your `resume.md` file but don’t see updates, try the fo
    ```
 4. Wait for a few minutes and try refreshing your website. It should be updated properly
 
+   **Note**: Github caches assets aggressively, so changes might not appear immediately. If that happen press `Ctrl + Shift + R`
+
 ## Credits
 
    - [modern technical writing by andrew etter](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)

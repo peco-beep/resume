@@ -4,6 +4,9 @@ SITEURL = "https://peco-beep.github.io/resume"
 
 PATH = "content"
 
+THEME = "octopress"
+
+
 TIMEZONE = 'America/Winnipeg'
 
 DEFAULT_LANG = 'English'
