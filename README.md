@@ -186,7 +186,7 @@ If you made changes to your `resume.md` file but don’t see updates, try the fo
    ```
 4. Wait for a few minutes and try refreshing your website. It should be updated properly
 
-   **Note**: Github caches assets aggressively, so changes might not appear immediately. If that happen press `Ctrl + Shift + R`
+**Note**: Github caches assets aggressively, so changes might not appear immediately. If that happen press `Ctrl + Shift + R`
 
 ## Credits
 
