@@ -192,6 +192,7 @@ If you made changes to your `resume.md` file but don’t see updates, try the fo
 
    - [modern technical writing by andrew etter](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
    - [William S. Pfeiffer’s Technical Communication](https://www.amazon.com/Technical-Communication-Practical-Approach-8th/dp/0132785781)
+   - [MrSenko](https://github.com/MrSenko/pelican-octopress-theme/tree/29020e048cadefffc8825e571593b88be26f22bc) - theme for the website
    - My group members that helped me peer reviewed this project:
       - Ty Bryant
       - Minh Do

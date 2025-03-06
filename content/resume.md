@@ -6,7 +6,7 @@ Date: 06-March-2025
  Email: chauharp@myumanitoba.ca  
 
 ## Experience  
-- **connection visualizer** – Built during devHacks 
+**connection visualizer** – Built during devHacks 
   - A web app that helps you connect back to people you met before  
   - Developed the frontend using React and managed data with PostgreSQL  
   - Integrated OpenAI API to enhance user experience
